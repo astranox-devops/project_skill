@@ -33,7 +33,7 @@ p {
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f4f4f4;
+  background-color: #1c1818;
 }
 
 .navbar {
@@ -42,7 +42,7 @@ body {
   align-items: center;
   background-color: #333;
   padding: 1rem 2rem;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .navbar .logo {
